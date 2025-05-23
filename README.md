@@ -1,4 +1,3 @@
-# appsyncfit
 
 # 🏃‍♀️ FitSync – Seu parceiro nas atividades físicas ao ar livre
 
