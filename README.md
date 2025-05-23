@@ -17,16 +17,11 @@ O **FitSync** é um aplicativo completo para quem ama se movimentar. Seja corren
 
 ---
 
-## 📱 Screenshots do App
+<h2>📱 Screenshots do App</h2>
 
-### Tela 1
-![Tela 1](https://github.com/moonholly0/appsyncfit/raw/main/content/image/lvidf1wfaeww4oinsh4w.jpg)
-
-### Tela 2
-![Tela 2](https://github.com/moonholly0/appsyncfit/raw/main/content/image/tejbebnvfoosnx20fstp.jpg)
-
-### Tela 3
-![Tela 3](https://github.com/moonholly0/appsyncfit/raw/main/content/image/yhs3u4u3corl104w1cb4.jpg)
+<img src="https://github.com/moonholly0/appsyncfit/raw/main/content/image/lvidf1wfaeww4oinsh4w.jpg" alt="Tela 1" width="300"/>
+<img src="https://github.com/moonholly0/appsyncfit/raw/main/content/image/tejbebnvfoosnx20fstp.jpg" alt="Tela 2" width="300"/>
+<img src="https://github.com/moonholly0/appsyncfit/raw/main/content/image/yhs3u4u3corl104w1cb4.jpg" alt="Tela 3" width="300"/>
 
 
 ---
